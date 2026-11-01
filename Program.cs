@@ -106,7 +106,7 @@
         static void Main(string[] args)
         {
             
-            //Feltolt();
+            Feltolt();
             Feladat14();
 
         }
